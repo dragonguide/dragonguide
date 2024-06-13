@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T12:37:46.141Z
+date: 2024-06-13T12:38:06.031Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -41,7 +41,7 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 - GitLab
 	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
 - Archive.org
-	Currently being considered,
+	Currently being considered.
 
 #### Community Archives
 - Wayback Machine
