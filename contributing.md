@@ -2,13 +2,13 @@
 title: Contributing
 description: 
 published: true
-date: 2024-06-13T23:23:33.813Z
+date: 2024-06-13T23:24:15.508Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T14:43:19.369Z
 ---
 
-# Contributing
+# Contributing to Dragon Guide
 
 ## Guidelines
 Before contributing, please make sure to read the guidelines below.
