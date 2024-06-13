@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T12:21:35.062Z
+date: 2024-06-13T12:27:08.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -44,10 +44,6 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 	Currently being considered. In the meantime, the Wayback Machine can still elect to take snapshots of the site on its own. It is [publically accessible](https://web.archive.org/dragon.guide).
 - Archive.org
 	Currently being considered,
-- BitBucket
-	Currently being considered.
-- SourceForge
-	Currently being considered.
 
 #### Community Archives
 Community archives are back-ups maintained by the community. There are none as of yet. If you want to help us out, please contact the team.
