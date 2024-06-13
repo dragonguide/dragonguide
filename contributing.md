@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2024-06-13T23:23:19.633Z
+date: 2024-06-13T23:23:33.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T14:43:19.369Z
@@ -14,6 +14,7 @@ dateCreated: 2024-06-13T14:43:19.369Z
 Before contributing, please make sure to read the guidelines below.
 
 ### General
+- Place content appropriately.
 - Use English and try to keep grammar in mind.
 	It is okay if some content is not in English, as long as it is done so with intent and in moderation. If English is not your native language, or you struggle with grammar, please reach out — we're willing to help!
 - Be clear about fact versus opinion.
