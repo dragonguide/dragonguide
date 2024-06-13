@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T12:41:23.433Z
+date: 2024-06-13T12:42:03.143Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -44,7 +44,7 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 	Currently being considered.
 
 #### Community Archives
-Community archives are back-ups that are maintained by third-parties.
+Community archives are back-ups that are maintained by third-parties. If you would like to start maintaining one yourself, please let us know so we can list it here.
 - Wayback Machine
 	Periodically takes snapshots of the website. Anyone can request a new snapshot by using the [Save Page Now service](https://web.archive.org/save). Make sure to enter `dragon.guide` as the URL and select "Save outlinks" for a complete snapshot. It is [publically accessible](https://web.archive.org/dragon.guide).
 
