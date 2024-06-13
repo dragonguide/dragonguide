@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T12:42:03.143Z
+date: 2024-06-13T12:49:06.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -36,10 +36,14 @@ To address all these potential pitfalls, we came up with a distributed back-up s
 #### Official Archives
 Official archives are back-ups that are maintained by the Dragon Guide team.
 
+- On-site Back-up
+	Currently being looked into.
 - GitHub
 	Includes textual content, files and media. It is [publically accessible](https://github.com/dragonguide/dragonguide).
 - GitLab
 	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
+- Jottacloud
+	Currently being looked into.
 - Archive.org
 	Currently being considered.
 
