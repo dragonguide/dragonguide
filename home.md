@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T12:27:08.805Z
+date: 2024-06-13T12:37:46.141Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -40,13 +40,12 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 	Includes textual content, files and media. It is [publically accessible](https://github.com/dragonguide/dragonguide).
 - GitLab
 	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
-- Wayback Machine
-	Currently being considered. In the meantime, the Wayback Machine can still elect to take snapshots of the site on its own. It is [publically accessible](https://web.archive.org/dragon.guide).
 - Archive.org
 	Currently being considered,
 
 #### Community Archives
-Community archives are back-ups maintained by the community. There are none as of yet. If you want to help us out, please contact the team.
+- Wayback Machine
+	Periodically takes snapshots of the website. Anyone can request a new snapshot by using the [Save Page Now service](https://web.archive.org/save/dragon.guide). Make sure to select "Save outlinks" for a complete snapshot. It is [publically accessible](https://web.archive.org/dragon.guide).
 
 ### Open license
 Though content may be ressiliant on a technical level, any wisdom contained on this site still risks being lost if it cannot be spread around. To encourage and enable this, all content (except where otherwise noted) is licensed under an open license (which one has yet to be determined). Though we will do everything in our power to keep the site up until the heat death of the universe, an open license will give anyone the power to take up the torch in case something were to happen.
