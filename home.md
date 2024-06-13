@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T12:52:06.349Z
+date: 2024-06-13T12:54:16.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -41,11 +41,11 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 - GitLab
 	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
 - On-site Back-up
-	A back-up of the site on the website host, on a different hard drive. Currently being looked into.
+	A back-up of the site on the website host, on a different hard drive. Currently being looked into. It will not be publically accessible.
 - Jottacloud
-	Currently being looked into.
+	Currently being looked into. It is not known whether it will be publically accessible.
 - Archive.org
-	Currently being considered.
+	Currently being considered. It would be publically accessible.
 
 #### Community Archives
 Community archives are back-ups that are maintained by third-parties. If you would like to start maintaining one yourself, please let us know so we can list it here.
