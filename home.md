@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-13T10:09:35.761Z
+date: 2024-06-13T12:19:19.282Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -35,12 +35,19 @@ To address all these potential pitfalls, we came up with a distributed back-up s
 
 #### Official Archives
 Official archives are back-ups that are maintained by the Dragon Guide team.
-- Archive.org (being considered)
-- Wayback Machine (being considered)
-- GitHub (being considered)
-- GitLab (being considered)
-- BitBucket (being considered)
-- SourceForge (being considered)
+
+- GitHub
+	Includes textual content, files and media. It is [publically accessible](https://github.com/dragonguide/dragonguide).
+- GitLab
+	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
+- Wayback Machine
+	Currently being considered. In the meantime, the Wayback Machine can still elect to take snapshots of the site on its own. It is [publically accessible](https://web.archive.org/dragon.guide).
+- Archive.org
+	Currently being considered,
+- BitBucket
+	Currently being considered.
+- SourceForge
+	Currently being considered.
 
 #### Community Archives
 Community archives are back-ups maintained by the community. There are none as of yet. If you want to help us out, please contact one of the administrators.
