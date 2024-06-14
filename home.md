@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-14T07:52:58.518Z
+date: 2024-06-14T07:53:20.063Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -19,7 +19,7 @@ We aim to be a repository of information to the dragonkin community. Our goal is
 We are currently working on setting up the site, and adding as much content as possible. Contributions would very much be appreciated!
 
 ## Contributing
-Contributions to the Dragon Guide are always welcome. The most useful thing to contribute would be wisdom, which comes in many forms. Whether you have something on the history of the dragonkin community, or are sharing your personal draconic experiences, your countributions are appreciated and will be kept safe. To get started, please read the contribution guide[contributing](/contributing).
+Contributions to the Dragon Guide are always welcome. The most useful thing to contribute would be wisdom, which comes in many forms. Whether you have something on the history of the dragonkin community, or are sharing your personal draconic experiences, your countributions are appreciated and will be kept safe. To get started, please read the [contribution guide](/contributing).
 
 Another way to contribute, would be through a donation. This will become an option at a later point in time. Any money we receive will be invested exclusively into the website. Examples would be server hosting, file storage and back-up strategies.
 
