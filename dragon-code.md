@@ -2,7 +2,7 @@
 title: Dragon Code
 description: 
 published: true
-date: 2024-06-18T09:38:11.360Z
+date: 2024-06-18T09:38:48.637Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T09:37:05.049Z
@@ -13,7 +13,7 @@ A Dragon Code is a geek code which reduces the amount of text one would otherwis
 
 ## Revision
 
-The Revised Dragon Code, also shortened to DC2 or referred to as "Dragon Code 2", is a revised version based upon the original ("Version 1") Dragon Code. It has some differences that are not backwards compatible. All Revised Dragon Codes start with ``DC2`` instead of ``DC``.
+The Revised Dragon Code, also shortened to DC2 or referred to as "Dragon Code 2", is a revised version based upon the original ("Version 1") Dragon Code. It has some differences that are not backwards compatible. All Revised Dragon Codes start with `DC2` instead of `DC`.
 
 # Guide
 The code itself consists of a number of tags that represent various characteristics. These tags start with a symbol that indicates what the tag represents, and are followed by other symbols that indicate the strength of (or otherwise modify) that characteristic. The most common modifiers are the + and - symbols, the number of which determines how strong (or weak) that characteristic is.
@@ -75,7 +75,7 @@ If your species is not listed, you can write it out long-hand in "double quotes"
 ---
 
 * H        Humanoids
-If you are human, you needn't include any of the sub groups listed below, only the ``H`` symbol. For those who are humanoid versions of creatures not in the list below, put an H^ before the creature's code. For example, ``DC2.H^Dw`` is a humanoid which resembles a western dragon.
+If you are human, you needn't include any of the sub groups listed below, only the `H` symbol. For those who are humanoid versions of creatures not in the list below, put an H^ before the creature's code. For example, `DC2.H^Dw` is a humanoid which resembles a western dragon.
 	* a      (Apes)
 	* d      (Dwarves)
 	* e      (Elves)
