@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2024-06-18T09:27:58.729Z
+date: 2024-06-18T09:28:53.954Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T14:43:19.369Z
@@ -93,4 +93,4 @@ At Dragon Guide, we value contributions in the form of history, insights, experi
 - IBAN (€): `NL49 BUNQ 2120 2003 51`
 - [Credit / Debit Card, iDEAL, Sofort and Bancontact](https://bunq.me/dragonguide)
 
-Donations are not intended for or directed towards commercial advantage or monetary compensation.
+Donations are not intended for or directed towards commercial advantage or monetary compensation (non-commercial).
