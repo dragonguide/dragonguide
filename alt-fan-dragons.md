@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T13:45:11.761Z
+date: 2024-06-19T13:49:04.114Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -90,7 +90,7 @@ I welcome anyone who wishes to write to me personally as well. I hope
 this group will be successful.
 ```
 
-The news group received a few posts a week for the first several months of its existance. These indeed tended to moee technical discussions, as was originally intended. However, nearing the end of 1994, posts from users claiming to be dragons started appearing. Discussions also became less technical, much to the dismay of ExistingPhantom. Fearing that this would cause the group to dry up and die off, the creator tempted to steer topics into a more technical direction, until noticing that the amount of posts per week jumped from only a few to dozens. From this point, alt.fan.dragons blossemed into a community of its own, well beyond a technical discussion group.
+The news group received a few posts a week for the first several months of its existance. These indeed tended to moee technical discussions, as was originally intended. However, nearing the end of 1994, posts from users claiming to be dragons started appearing. Discussions also became less technical, much to the dismay of ExistingPhantom. Fearing that this would cause the group to dry up and die off, the creator tempted to steer topics into a more technical direction, until noticing that the amount of posts per week jumped from only a few to dozens. From this point, alt.fan.dragons blossomed into a community of its own, well beyond a technical discussion group.
 
 > Source: [https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html](https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html)
  
