@@ -2,7 +2,7 @@
 title: Movies
 description: 
 published: true
-date: 2024-06-19T18:43:21.059Z
+date: 2024-06-19T18:45:31.841Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T13:51:30.761Z
@@ -59,6 +59,7 @@ Wish Dragon | 2021 | Determined teen Din is longing to reconnect with his childh
 ## Featuring dragons
 Title | Year | Description
 ---|---|---
+Sleeping Beauty | 1959 | A beautiful princess born in a faraway kingdom is destined by a terrible curse to prick her finger on the spindle of a spinning wheel and fall into a deep sleep that can only be awakened by true love's first kiss. Determined to protect her, her parents ask three fairies to raise her in hiding. But the evil Maleficent is just as determined to seal the princess's fate.
 Spirited Away | 2001 | A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.
 Ragnarok | 2013 | Archaeologist Sigurd Svendsen discovers that the Oseberg ship hides a secret from the Viking Age. Along with his two children put Sigurd out on a quest to find the truth. The mystery leads them into "No Man's Land" between Norway and Russia where no man traveling in modern times. Old runes take on new meaning when the secret they uncover is more frightening than anyone could have imagined.
 Tales from Earthsea | 2006 | Something bizarre has come over the land. The kingdom is deteriorating. People are beginning to act strange... What's even more strange is that people are beginning to see dragons, which shouldn't enter the world of humans. Due to all these bizarre events, Ged, a wandering wizard, is investigating the cause. During his journey, he meets Prince Arren, a young distraught teenage boy. While Arren may look like a shy young teen, he has a severe dark side, which grants him strength, hatred, ruthlessness and has no mercy, especially when it comes to protecting Teru. For the witch Kumo this is a perfect opportunity. She can use the boy's "fears" against the very one who would help him, Ged.
