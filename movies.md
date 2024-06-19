@@ -2,7 +2,7 @@
 title: Movies
 description: 
 published: true
-date: 2024-06-19T18:45:31.841Z
+date: 2024-06-19T18:48:16.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T13:51:30.761Z
@@ -59,6 +59,7 @@ Wish Dragon | 2021 | Determined teen Din is longing to reconnect with his childh
 ## Featuring dragons
 Title | Year | Description
 ---|---|---
+Mulan | 1998 | To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.
 Sleeping Beauty | 1959 | A beautiful princess born in a faraway kingdom is destined by a terrible curse to prick her finger on the spindle of a spinning wheel and fall into a deep sleep that can only be awakened by true love's first kiss. Determined to protect her, her parents ask three fairies to raise her in hiding. But the evil Maleficent is just as determined to seal the princess's fate.
 Spirited Away | 2001 | A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.
 Ragnarok | 2013 | Archaeologist Sigurd Svendsen discovers that the Oseberg ship hides a secret from the Viking Age. Along with his two children put Sigurd out on a quest to find the truth. The mystery leads them into "No Man's Land" between Norway and Russia where no man traveling in modern times. Old runes take on new meaning when the secret they uncover is more frightening than anyone could have imagined.
