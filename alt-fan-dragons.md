@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T10:22:20.308Z
+date: 2024-06-19T12:10:20.273Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-18T10:18:47.325Z
 # alt.fan.dragons
 alt.fan.dragons, also known as Alfandria, The Dominance or simply AFD, is a Usenet news group open to discussions, opinions and literature about dragons. As an unmoderated forum, rather than enforcing a certain mindset, users are enouraged to freely put forth their own opinions, views and ideas. The news group was created on December 1<sup>st</sup>, 1993 by ExistingPhantom.
 
-## Early History
+## Early history
 
 The original purprose of the newsgroup was to have technical discussions on dragons, including topics such as how they possibly would behave, real life legends and posting poems. After polling for interest in adjacent fantasy news groups, he submitted a proposal to create the alt.fan.dragons Usenet newsgroup, an original copy of which can be found below.
 
@@ -91,7 +91,7 @@ I welcome anyone who wishes to write to me personally as well. I hope
 this group will be successful.
 ```
 
-The news group received a few posts a week for the first several months of its existance.
+The news group received a few posts a week for the first several months of its existance. These indeed tended to be 
 
 Back in 1992 before the existence of the world wide web when all that internet junkies had too keep themselves entertained were e-mail, telent, ftp sites, golpher (just starting to appear) listserves, usenet news and the occasion game of Empire or Imorea. I was (and still am) a big dragon fan who loved collecting anything with dragons in it. Trouble was, that dragon info and images were few and very hard to find on the internet at that time. Search engines were in their infancy and could only search on file names of ftp sites. You were lucky to find a new dragon resource (usually a single gif image) once every three months. I began to pull all the dragon files I found in to one ftp site called icecube. Thus the first strictly dragon internet resource was born. Not very many people knew about it or used it but that was ok. Being a starving dragon fan in a dragonless internet, I wondered if there were any other dragon fans out there. So I started posting to the Usenet fantasy groups asking if there was any interest in creating a dragon related Usenet news group. To my surprise, over several months I received seven replies back stating interest. So I started the newsgroup creation process:
 
@@ -130,6 +130,8 @@ A GTK+ e-mail client and news reader known for its robustness and light-weight i
 A [lite version](https://apps.apple.com/app/newstap-lite-usenet-reader/id297063247) of the app is available for free, whereas the full version needs to be purchased. Available for iOS and iPadOS in the App Store.
 * [Xnews](https://web.archive.org/web/20141227184804/http://xnews.newsguy.com/)
 Albeit discontinued, still a very much appreciated client that will likely continue to work for the forseeable future. Only available for Windows.
+* [Newsgrouper](https://cmacleod.me.uk/ng/alt.fan.dragons)
+Allows free access to Usenet newsgroups from a web browser. You can browse as a guest, but posting requires you to sign up for an account.
 
 [Google Groups](https://groups.google.com/g/alt.fan.dragons) used to be the easiest way to access alt.fan.dragons, requiring only a web browser and a Google account. However, Google has discontinued its integration with Usenet, meaning it is no longer possible to send and receive new posts. Currently, it is only possible to view historical posts from before February 22, 2024.
 
