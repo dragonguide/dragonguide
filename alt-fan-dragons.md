@@ -2,14 +2,14 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T09:19:03.992Z
+date: 2024-06-19T09:19:55.465Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
 ---
 
 # alt.fan.dragons (Alfandria)
-alt.fan.dragons, also known as Alfandria or "The Dominance", is a Usenet news group open to discussions, opinions and literature about dragons. As an unmoderated forum, rather than enforcing a certain mindset, users are enouraged to freely put forth their own opinions, views and ideas. The news group was created on December 1<sup>st</sup>, 1993 by ExistingPhantom.
+alt.fan.dragons, also known as Alfandria, The Dominance or simply AFD, is a Usenet news group open to discussions, opinions and literature about dragons. As an unmoderated forum, rather than enforcing a certain mindset, users are enouraged to freely put forth their own opinions, views and ideas. The news group was created on December 1<sup>st</sup>, 1993 by ExistingPhantom.
  
 ## Accessing the news group
  
