@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T12:41:06.692Z
+date: 2024-06-19T13:25:08.093Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-18T10:18:47.325Z
 # alt.fan.dragons
 alt.fan.dragons, also known as Alfandria, The Dominance or simply AFD, is a Usenet news group open to discussions, opinions and literature about dragons. As an unmoderated forum, rather than enforcing a certain mindset, users are enouraged to freely put forth their own opinions, views and ideas. The news group was created on December 1<sup>st</sup>, 1993 by ExistingPhantom.
 
-## Early history
+## History
 > Source: https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html
 
 The original purprose of the newsgroup was to have technical discussions on dragons, including topics such as how they possibly would behave, real life legends and posting poems. After polling for interest in adjacent fantasy news groups, he submitted a proposal to create the alt.fan.dragons Usenet newsgroup, an original copy of which can be found below.
@@ -95,7 +95,6 @@ this group will be successful.
 The news group received a few posts a week for the first several months of its existance. These indeed tended to moee technical discussions, as was originally intended. However, nearing the end of 1994, posts from users claiming to be dragons started appearing. Discussions also became less technical, much to the dismay of ExistingPhantom. Fearing that this would cause the group to dry up and die off, the creator tempted to steer topics into a more technical direction, until noticing that the amount of posts per week jumped from only a few to dozens. From this point, alt.fan.dragons blossemed into a community of its own, well beyond a technical discussion group.
  
 ## Accessing the news group
- 
 Due to the advancement of technology, it has become increasingly more difficult to make use of Usenet, as it is nowadays considered an obsolete. Nevertheless, with technical know-how, it can still be accessed.
 
 Setting up Usenet can be likened to setting up e-mail in a traditional desktop client, such as Outlook. You need to choose a client, a server and make sure you have created an account on that server before you can start making use of the service.
