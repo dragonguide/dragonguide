@@ -2,7 +2,7 @@
 title: Movies
 description: 
 published: true
-date: 2024-06-19T18:42:06.128Z
+date: 2024-06-19T18:43:21.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T13:51:30.761Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-19T13:51:30.761Z
 # List of dragon movies
 <figure>
   <img src="/dragons-flight-dragonsong12.jpg" alt="Screenshot of Dragon Vision"/>
-  <figcaption>"Dragon's Flight" by [dragonsong12](https://www.deviantart.com/dragonsong12)</figcaption>
+  <figcaption>"Dragon's Flight" by <a href="https://www.deviantart.com/dragonsong12">dragonsong12</a></figcaption>
 </figure>
 
 <!--
