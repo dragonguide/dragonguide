@@ -1,8 +1,8 @@
 ---
-title: Hydra Architecture
+title: Architecture
 description: 
 published: true
-date: 2024-06-19T20:17:50.647Z
+date: 2024-06-19T20:21:16.004Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
