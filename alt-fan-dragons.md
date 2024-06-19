@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T13:25:28.350Z
+date: 2024-06-19T13:45:11.761Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -12,8 +12,6 @@ dateCreated: 2024-06-18T10:18:47.325Z
 alt.fan.dragons, also known as Alfandria, The Dominance or simply AFD, is a Usenet news group open to discussions, opinions and literature about dragons. As an unmoderated forum, rather than enforcing a certain mindset, users are enouraged to freely put forth their own opinions, views and ideas. The news group was created on December 1<sup>st</sup>, 1993 by ExistingPhantom.
 
 ## History
-> Source: [https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html](https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html)
-
 The original purprose of the newsgroup was to have technical discussions on dragons, including topics such as how they possibly would behave, real life legends and posting poems. After polling for interest in adjacent fantasy news groups, he submitted a proposal to create the alt.fan.dragons Usenet newsgroup, an original copy of which can be found below.
 
 ```
@@ -93,6 +91,8 @@ this group will be successful.
 ```
 
 The news group received a few posts a week for the first several months of its existance. These indeed tended to moee technical discussions, as was originally intended. However, nearing the end of 1994, posts from users claiming to be dragons started appearing. Discussions also became less technical, much to the dismay of ExistingPhantom. Fearing that this would cause the group to dry up and die off, the creator tempted to steer topics into a more technical direction, until noticing that the amount of posts per week jumped from only a few to dozens. From this point, alt.fan.dragons blossemed into a community of its own, well beyond a technical discussion group.
+
+> Source: [https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html](https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html)
  
 ## Accessing the news group
 Due to the advancement of technology, it has become increasingly more difficult to make use of Usenet, as it is nowadays considered an obsolete. Nevertheless, with technical know-how, it can still be accessed.
@@ -124,6 +124,20 @@ Named after the [Usenet slang](https://en.wikipedia.org/wiki/Eternal_September),
 A Usenet server offered by the Freie Universität Berlin, which can be used for a low yearly fee.
 
 As an alternative, you may also contact your ISP, as many of them may provide a Usenet server of their own.
+
+### Configuring your client
+Depending on the client of choice, configuring Usenet is going to work differently. It would be impossible to list instructions for each client, so only instructions for Thunderbird will be shown here. Please consult instructions, tutorials, guides or manuals elsewhere if you need help with a different client.
+
+1. If not already shown, press <kbd>Alt</kbd> to display the menu bar. Then, select File → New → Other Accounts.
+2. Select Newsgroup Account and click Next/Continue.
+3. Enter your name and email account. When you send a message to a newsgroup, these values will be used to identify the source of the message. Click Next/Continue.
+4. Enter the address of the newsgroup server that you are subscribing to. In this case, alt.fan.dragons. Then, click Next/Continue.
+5. Enter a name for the account and click Next/Continue.
+6. You will be presented with a summary screen. Verify that all the information you entered is correct and click Finish/Done, or click Back to edit the incorrect information. 
+
+Once you have configured a newsgroup server, right-click the account name in the folder pane and select Subscribe to specify the groups that you want to join. To modify other account settings, right-click the account name in the folder pane and select Settings. You can customize various settings, such as the frequency and amount of downloaded messages, composition options, etc.
+
+> Source: [https://support.mozilla.org/en-US/kb/creating-newsgroup-account](https://support.mozilla.org/en-US/kb/creating-newsgroup-account)
 
 ## Dragonfire.org
 Dragonfire.org was generally considered to be the official site of alt.fan.dragons. It boasted general info about the Usenet forum, as well as provide additonal content like games, literature, entertainment, art and photos. It encouraged new users to join the community by providing an FAQ (a list of frequently asked questions).
