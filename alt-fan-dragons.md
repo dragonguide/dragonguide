@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T12:10:20.273Z
+date: 2024-06-19T12:41:06.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -12,6 +12,7 @@ dateCreated: 2024-06-18T10:18:47.325Z
 alt.fan.dragons, also known as Alfandria, The Dominance or simply AFD, is a Usenet news group open to discussions, opinions and literature about dragons. As an unmoderated forum, rather than enforcing a certain mindset, users are enouraged to freely put forth their own opinions, views and ideas. The news group was created on December 1<sup>st</sup>, 1993 by ExistingPhantom.
 
 ## Early history
+> Source: https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html
 
 The original purprose of the newsgroup was to have technical discussions on dragons, including topics such as how they possibly would behave, real life legends and posting poems. After polling for interest in adjacent fantasy news groups, he submitted a proposal to create the alt.fan.dragons Usenet newsgroup, an original copy of which can be found below.
 
@@ -91,27 +92,7 @@ I welcome anyone who wishes to write to me personally as well. I hope
 this group will be successful.
 ```
 
-The news group received a few posts a week for the first several months of its existance. These indeed tended to be 
-
-Back in 1992 before the existence of the world wide web when all that internet junkies had too keep themselves entertained were e-mail, telent, ftp sites, golpher (just starting to appear) listserves, usenet news and the occasion game of Empire or Imorea. I was (and still am) a big dragon fan who loved collecting anything with dragons in it. Trouble was, that dragon info and images were few and very hard to find on the internet at that time. Search engines were in their infancy and could only search on file names of ftp sites. You were lucky to find a new dragon resource (usually a single gif image) once every three months. I began to pull all the dragon files I found in to one ftp site called icecube. Thus the first strictly dragon internet resource was born. Not very many people knew about it or used it but that was ok. Being a starving dragon fan in a dragonless internet, I wondered if there were any other dragon fans out there. So I started posting to the Usenet fantasy groups asking if there was any interest in creating a dragon related Usenet news group. To my surprise, over several months I received seven replies back stating interest. So I started the newsgroup creation process:
-
-Alt.fan.dragons is an unmoderated forum for the posting of any and all topics relating to dragons, as well as opinion, discussion, stories and poetry about any aspect of dragons. The discussion is not restricted to any single author's or individual's views on dragons' life-cycles or behavior, but is a free discussion on any aspect or ideas put forth about them.
-
-AFD came into being on December 1st of 1993. The first two months alt.fan.dragons received about 3 posts a week. There were no dragon in the group then. It contained mostly technical discussions, with an occasion poem. Around July of 1994 things started picking up. We were getting 7 to 10 posts a week. Then September - November rolled around and this guy called Blackburn and several others started showing up and started claiming they were dragons.
-
-Before then AFD was mainly a technical discussion group. What most people do not know is that I was fearful that such semi-off-topic, (though not too off topic if you read the above description) posts would cause the few people we had posting to the group to stop posting and that the group would dry up and die off. I tried to discourage such posts, by trying to change the topic back to technical discussions.
-
-I failed miserably.
-
-For two and a half months I tried changing the topic to technical discussion. The first month I was so-so successful, the second month there were pies being thrown everywhere and no one was getting into any technical discussion, halfway through the third month a light bulb swung and hit me up side the head. In July we were getting 7 posts a week now in December ( 1 year after it started) we were getting 15 to 20 posts a day. Everyone was enjoying them selves and having fun, there weren't any flame feasts going on, AFD was growing in population quickly and wasn't going to die off as an unused news groups. I saw the title wave (of delicious cream pies) rising before me and decided to stop trying to swing against it and just surf with the flow.
-
-Shortly there after Dalnet was created by Dalvenjah FoxFire (aka Sven Nielsen), the World Wide Web sprouted into being and the wonderful world of AFD bloomed like a wild fire. The land of AFD was first called the Dominance, then someone came of with the wonderful term Alfandra and it has stuck like peanut butter in a banana pie ever since.
-
-I haven't been active with the newsgroup in quite a while. The reason has as nothing to do with any of the above. I'm still as big a dragon fan as I ever was. However, I no longer have time I use to read a.f.d on a regular basis, but I do pop in every 6 months or so to see what's happening. I miss you guys *grouf!*
-
-This is the history as I am aware in a nutshell. Thus spake the ol'frute.
-
-> Source: https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html
+The news group received a few posts a week for the first several months of its existance. These indeed tended to moee technical discussions, as was originally intended. However, nearing the end of 1994, posts from users claiming to be dragons started appearing. Discussions also became less technical, much to the dismay of ExistingPhantom. Fearing that this would cause the group to dry up and die off, the creator tempted to steer topics into a more technical direction, until noticing that the amount of posts per week jumped from only a few to dozens. From this point, alt.fan.dragons blossemed into a community of its own, well beyond a technical discussion group.
  
 ## Accessing the news group
  
