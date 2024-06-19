@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T09:19:55.465Z
+date: 2024-06-19T09:22:03.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -35,7 +35,7 @@ Albeit discontinued, still a very much appreciated client that will likely conti
 Below, we provide you with a list of Usenet servers to choose from. If you decide to look for one yourself online, be warned that hosting providers tend to offer mostly "binary" Usenet servers. These kinds of servers are meant for sharing files over Usenet, rather than participating in newsgroups.
 
 * [Eternal-September](https://www.eternal-september.org)
-Named after the Usenet slang, Eternal-September is a private project providing free news group access to anyone who creates an account.
+Named after the [Usenet slang](https://en.wikipedia.org/wiki/Eternal_September), Eternal-September is a private project providing free news group access to anyone who creates an account.
 * [Individual.NET](https://individual.net)
 A Usenet server offered by the Freie Universität Berlin, which can be used for a low yearly fee.
 
