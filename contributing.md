@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2024-06-18T09:28:53.954Z
+date: 2024-06-19T13:29:25.580Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T14:43:19.369Z
@@ -62,7 +62,7 @@ In any case, the ownership and copyright of your own content will always stay wi
 We very much welcome contributions, even if you are contributing on behalf of another person. We do need to ask you, however, that you have permission from the owner of creator of that content. Sometimes, the creator will mention alongside the content whether they permit copying and sharing. If not, then it is also possible to ask them explicitly. If it is not clear whether you have permission, or if you are unable to ask the owner for permission, please contact us. In such an instance, we will decide on a case-by-case basis.
 
 #### DMCA and Fair use
-Sometimes, in the interest of significance or preservation, you may be willing to contribute content for which you do not own the copyright. Generally, we consider this to be okay as long as it is considered "fair use", which is defined as having the following characteristics.
+Sometimes, in the interest of significance or preservation, you may be willing to contribute content for which you do not own the copyright. Generally, if it is not reasonably possible to ask for permission from the copyright owner, and if it is considered fair use, we consider this to be okay. Fair use is defined as having the following characteristics.
 
 - Purpose and Character
 	Non-commercial, educational, or transformative uses are favored.
@@ -73,7 +73,7 @@ Sometimes, in the interest of significance or preservation, you may be willing t
 - Effect on Market
 	If the use doesn't harm the market value of the original work, it is more likely to be considered fair use.
   
-Generally, we trust our contributors to judge what is and is not fair use. With that said, we may remove content that very clearly would not be fair use (e.g. pirated movies and books) and do process DMCA requests.
+Generally, we trust our contributors to judge what is and is not fair use. With that said, we may remove content that very clearly would not be fair use (e.g. pirated movies and books) and do process DMCA requests. If there is another reason content needs to be removed, such as personal reasons or inaccuracies, we would like to hear about it as well.
 
 ## Submitting contributions
 There are several ways to submit your contributions. Choose the one that is the most applicable to your situation.
