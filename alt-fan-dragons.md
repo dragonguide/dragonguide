@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-06-19T09:22:03.695Z
+date: 2024-06-19T09:25:49.209Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -43,6 +43,82 @@ As an alternative, you may also contact your ISP, as many of them may provide a 
 
 ## Early History
 > This should be paraphrased. Source: https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html
+
+```
+Proposal / Request For Discussion 
+New Newsgroup ALT.FAN.DRAGONS 
+Status: Unmoderated
+
+This is a formal Proposal and Request for Discussion for the creation of
+a new newsgroup under alt.fan.dragons or alt.dragons.
+
+CHARTER - alt.fan.dragons
+
+Alt.fan.dragons will be an unmoderated forum for the posting of any and
+all topics relating to dragons, as well as opinion, discussion, stories,
+poetry and pictures about any aspect of dragons. The discussion will not
+be restricted to any single author or individual's views on dragons life
+cycles or behavior, but will be a free discussions on any aspect or ideas
+put forth about them.
+
+Topics could include:
+
+*  Discussion on dragon life cycles, Social organization, behavior,
+   Characteristics, legends, art styles and other aspects. 
+*  Discussions regarding specific authors ideas of dragons 
+*  Any original ideas, stories or poems. 
+*  Anything else that is relevant to dragons in general.
+
+RATIONALE:
+
+The net has a lot of people interested in dragons on it. A look at
+a.b.p.m, a.f.p and a?? traffic level will confirm that. There is
+currently no single group on Usenet which addresses the proposed subject
+matter. I feel that this group will be successful and help consolidate
+the multiple interest in dragons that is scattered around various
+newsgroups and yet restricted from full discussion by the various
+newsgroup's topic restrictions.
+
+In a recent poll it see if there was any interest for the creation of
+such a group out of 54 people who responded 53 expressed interest in
+having such a group created. The poll was put out on 11/17/93. The
+results were compiled on 11/22/93. The poll was posted to the following
+groups:
+
+NAMESPACE
+
+I am not in any way committed to the choice of group name.  I am also
+considering the name alt.dragons. However a.t.fan.dragons is probably the
+best name due to the existence of alt.dragons-inn which is a story/roll
+playing environment and we wouldn't ant any postings confused between the
+groups. Any other suggestions would be appreciated.
+
+
+Suggested one line description for the List of Active Newsgroups:
+alt.fan.dragons:       - A discussion on all aspects of dragons.
+
+
+PROCESS:
+
+The normal  group creation guidelines will be followed.  Discussion will
+continue for 30 days from this posting, and after that, a Call for Votes
+(CFV) will be posted if appropriate.
+
+
+DISCUSSION:
+
+Discussion of the proposed group should be held on alt.config. Note that
+the Followup-To: line of this article will direct any followups to
+alt.config automatically.
+
+Feel free to re-post this article to other newsgroups or mailing-lists
+whose readers might find it of interest, as long as the Followup-To: line
+remains directed to alt.config. All discussion should take place in that
+newsgroup.
+
+I welcome anyone who wishes to write to me personally as well. I hope
+this group will be successful.
+```
 
 Back in 1992 before the existence of the world wide web when all that internet junkies had too keep themselves entertained were e-mail, telent, ftp sites, golpher (just starting to appear) listserves, usenet news and the occasion game of Empire or Imorea. I was (and still am) a big dragon fan who loved collecting anything with dragons in it. Trouble was, that dragon info and images were few and very hard to find on the internet at that time. Search engines were in their infancy and could only search on file names of ftp sites. You were lucky to find a new dragon resource (usually a single gif image) once every three months. I began to pull all the dragon files I found in to one ftp site called icecube. Thus the first strictly dragon internet resource was born. Not very many people knew about it or used it but that was ok. Being a starving dragon fan in a dragonless internet, I wondered if there were any other dragon fans out there. So I started posting to the Usenet fantasy groups asking if there was any interest in creating a dragon related Usenet news group. To my surprise, over several months I received seven replies back stating interest. So I started the newsgroup creation process:
 
