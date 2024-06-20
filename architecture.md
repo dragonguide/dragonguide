@@ -2,7 +2,7 @@
 title: Architecture
 description: 
 published: true
-date: 2024-06-20T08:04:17.906Z
+date: 2024-06-20T08:05:18.949Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
@@ -30,6 +30,8 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 	Includes textual content, files and media. It is [publically accessible](https://github.com/dragonguide/dragonguide).
 - GitLab
 	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
+- Wayback Machine
+	Periodically takes snapshots of the website. Anyone can request a new snapshot by using the [Save Page Now service](https://web.archive.org/save). Make sure to enter `dragon.guide` as the URL and select "Save outlinks" for a complete snapshot. In the future, we aim to automate this process. It is [publically accessible](https://web.archive.org/dragon.guide).
 - On-site Back-up
 	A back-up of the site on the website host, on a different hard drive. Currently being looked into. It will not be publically accessible.
 - Jottacloud
@@ -38,9 +40,7 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 	Currently being considered. It would be publically accessible.
 
 ### Community Archives
-Community archives are back-ups that are maintained by third-parties. If you would like to start maintaining one yourself, please let us know so we can list it here.
-- Wayback Machine
-	Periodically takes snapshots of the website. Anyone can request a new snapshot by using the [Save Page Now service](https://web.archive.org/save). Make sure to enter `dragon.guide` as the URL and select "Save outlinks" for a complete snapshot. It is [publically accessible](https://web.archive.org/dragon.guide).
+Community archives are back-ups that are maintained by third-parties. If you would like to start maintaining one yourself, please let us know so we can list it here. There are currently no community archives.
 
 ## Future-proof storage format
 All content on the website is saved in a standard format. Technology advances at a rapid pace, so to make sure our content will be easy to access in the future, we need to decouple our content from any underlying software as much as possible. There are many different kinds of software out there that a web administrator could use to set up a wiki, but in our case we had to pick one with resiliancy as a top priority.
