@@ -2,7 +2,7 @@
 title: Architecture
 description: 
 published: true
-date: 2024-06-19T20:21:16.004Z
+date: 2024-06-20T08:04:17.906Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
@@ -21,7 +21,7 @@ A hard drive that failed, a hack or a piece of software that failed is enough to
 
 To address all these potential pitfalls, we came up with a distributed back-up strategy. The idea is that as many varying back-ups are used so that the short comings of any one particular strategy are adequately addressed by other strategies. For example, the Wayback Machine is able to retain a snapshot of the site that looks and feels just like the original site, but the actual content can be hard to navigate and extract. A different back-up strategy like GitHub is good for retaining textual data and keeping a precise history of edits that have been made, but falls apart when trying to view the website in its original form. Combining all these strategies is what allows the entire history and content of Dragon Guide to be accessible far into the future, even if something were to happen to the main site.
 
-Lastly, it is important that at least some of these back-ups are publically accessible. If we force everyone to access our content through our website, that becomes a single point of failute. And though the maintainer of the site might be around to restore one of their many back-ups, if they are not able to for any reason, that data still becomes lost to the public. This is exactly what public archives prevent. They provide a way for users to easily make their own copy of the site. With enough of these public archives around, and with enough people making copies of these, the content on Dragon Guide will always remain around even when the site ceases to operate and the owner is unable to restore or release their own back-ups.
+Lastly, it is important that at least some of these back-ups are publically accessible. If we force everyone to access our content through our website, that becomes a single point of failure. And though the maintainer of the site might be around to restore one of their many back-ups, if they aren't for any reason, that data still becomes lost to the public. This is exactly what public archives prevent. They provide a way for users to easily make their own copies of the site. With enough of these public archives around, and with enough people making copies of these, the content on Dragon Guide will always remain around even when the site ceases to operate and the owner is unable to restore or release their own back-ups.
 
 ### Official Archives
 Official archives are back-ups that are maintained by the Dragon Guide team.
