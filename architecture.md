@@ -1,15 +1,15 @@
 ---
-title: Architecture
+title: Resiliency
 description: 
 published: true
-date: 2024-06-20T08:05:18.949Z
+date: 2024-06-20T09:53:33.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
 ---
 
-# Resilient "Hydra" Architecture
-Dragon Guide is not the first site of its kind, as there have been many other sites aiming to catelogue information and history about draconity. The problem is that most of these sites are no longer around. There are many reasons a site could be going down. For example, the owner might no longer be able to maintain the site, the hosting provider might be going out of business, data loss has occured or the underlying technology becomes obsolete. In order for Dragon Guide to become a serious repository that will be able to serve its information to many generations into the future, we need a comprehensive strategy. To this extent, we came up with a so-called "Hydra Architecture", the many aspects of which we will explain below.
+# Resilient "Hydra" Strategy
+Dragon Guide is not the first site of its kind, as there have been many other sites aiming to catelogue information and history about draconity. The problem is that most of these sites are no longer around. There are many reasons a site could be going down. For example, the owner might no longer be able to maintain the site, the hosting provider might be going out of business, data loss has occured or the underlying technology becomes obsolete. In order for Dragon Guide to become a serious repository that will be able to serve its information to many generations into the future, we need a comprehensive strategy. To this extent, we came up with a so-called "Hydra Strategy", the many aspects of which we will explain below.
 
 <figure>
   <img src="/hydra-architecture.jpg" alt="Screenshot of Dragon Vision"/>
