@@ -2,7 +2,7 @@
 title: Movies
 description: 
 published: true
-date: 2024-06-19T18:48:44.800Z
+date: 2024-06-20T09:15:45.720Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T13:51:30.761Z
@@ -50,6 +50,7 @@ I Am Dragon | 2015 | In the midst of the wedding princess Miroslava is kidnapped
 Pete's Dragon | 1977 | Pete, a young orphan, runs away to a Maine fishing town with his best friend a lovable, sometimes invisible dragon named Elliott! When they are taken in by a kind lighthouse keeper, Nora, and her father, Elliott's prank playing lands them in big trouble. Then, when crooked salesmen try to capture Elliott for their own gain, Pete must attempt a daring rescue.
 Pete's Dragon | 2016 | For years, old wood carver Mr. Meacham has delighted local children with his tales of the fierce dragon that resides deep in the woods of the Pacific Northwest. To his daughter, Grace, who works as a forest ranger, these stories are little more than tall tales... until she meets Pete, a mysterious 10-year-old with no family and no home who claims to live in the woods with a giant, green dragon named Elliott. And from Pete's descriptions, Elliott seems remarkably similar to the dragon from Mr. Meacham's stories. With the help of Natalie, an 11-year-old girl whose father Jack owns the local lumber mill, Grace sets out to determine where Pete came from, where he belongs, and the truth about this dragon.
 Raya and the Last Dragon | 2021 | Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.
+[Sintel](https://download.blender.org/durian/movies/) | 2010 | A wandering warrior finds an unlikely friend in the form of a young dragon. The two develop a close bond, until one day the dragon is snatched away. She then sets out on a relentless quest to reclaim her friend, finding in the end that her quest exacts a far greater price than she had ever imagined.
 The Last Dragon | 2004 | A nature mockumentary about a British scientific team that attempts to understand the unique incredible beasts that have fascinated people for ages. CGI is used to create the dragons.
 The Last Dragonslayer | 2016 | In a fantasy world where magic is being superceded by technology, an orphaned teen discovers her destiny to become a dragonslayer.
 White Snake | 2019 | One day a young woman named Blanca is saved by Xuan, a snake catcher from a nearby village. She has lost her memory, and together they go on a journey to discover her real identity, developing deeper feelings for one another along the way. But as they learn more about her past, they uncover a darker plot of supernatural forces vying for power, with the fate of the world hanging in the balance.
