@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-06-20T10:00:49.494Z
+date: 2024-06-20T10:02:18.273Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-12T13:17:20.314Z
@@ -25,6 +25,8 @@ Before publically announcing this site, there are several things that still need
 - [ ] Ask permission where needed for content and images that are currently on the website.
 - [ ] Ask people pre-launch for any contributions and feedback.
 - [ ] Discuss and decide on a license for the content on the website.
+- [ ] Website theming and getting a simple logo made.
+- [ ] Come up with a plan for succession.
 
 ## Contact
 For any inqueries, you may contact us by sending a mail to `contact@[domain of this website]`.  We aim to respond in 1 to 2 days.
