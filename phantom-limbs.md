@@ -1,8 +1,8 @@
 ---
-title: Phantom Limbs
+title: Phantom limbs
 description: 
 published: true
-date: 2024-06-20T09:48:43.410Z
+date: 2024-06-20T09:49:15.727Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-20T09:48:43.410Z
