@@ -2,7 +2,7 @@
 title: Resiliency
 description: 
 published: true
-date: 2024-06-20T09:53:33.689Z
+date: 2024-06-20T09:56:39.965Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
@@ -47,7 +47,7 @@ All content on the website is saved in a standard format. Technology advances at
 
 A lot of the wiki software available stores content in a unique fashion. This could be a database formatted in a specific way, or text using a special mark up language. However, what this does is tie the future of your content together with the future of the software you are using. To prevent this, we need to choose wiki software that can interface with a standard format, rather than use one of its own. This format needs to be easy to convert into other formats, and it should be compatible with a large range of different available software.
 
-We eventually settled on Wiki.js, which makes use of Markdown under the hood. These files are simple text files with characters used to formatting. You may not have heard of it, but you might already be using it. Modern messaging platforms such as Discord, for example, use the Markdown syntax to allow you to make text `**bold**` or `*cursive*`. Because the syntax is so simple, and because they are just text files, the contents can be easily read with any text editor. This includes very simple ones such as Notepad.
+We eventually settled on Wiki.js, which makes use of Markdown under the hood. These files are simple text files with characters used to formatting. You may not have heard of it, but you might already be using it. Modern messaging platforms such as Discord, for example, use the Markdown syntax to allow you to make text `**bold**` or `*cursive*`. Because the syntax is so simple, and because they are just text files, the contents can be easily read with any text editor, including very simple ones such as Notepad.
 
 ```
 # This is a header
