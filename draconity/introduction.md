@@ -2,7 +2,7 @@
 title: Introduction
 description: 
 published: true
-date: 2024-06-20T18:29:40.827Z
+date: 2024-06-26T08:11:07.462Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-20T15:08:04.697Z
@@ -16,7 +16,7 @@ What it means to identify as a dragon is hard to define due to several reasons. 
 
 Dragonkin believe in their draconity as a statement of identity, similar to how one might identify with a nationality, religion, or sexual orientation. There are several reasons why people come to identiy as a dragon, and they can be both spiritual as well as psychological in nature. Many dragonkin believe they possess the spirit or essence of a dragon. This belief might stem from feelings of having lived past lives as dragons or a profound spiritual kinship with dragons. Spiritual practices, such as meditation, astral projection, and rituals, are often employed to connect with their dragon essence. For others, identifying as a dragon is an integral part of their psychological makeup. This means they may think, feel, and behave in ways they associate with being a dragon. Some dragonkin also experience their dragon identity through metaphysical phenomena. This can include feeling [phantom limbs](/phantom-limbs) (such as wings or a tail), experiencing shifts where they feel more dragon-like, or having vivid dreams and visions of being a dragon.
 
-<!-- Dragons do not consider themselves superior to humans, nor do they think they are not a human physically. Instead, they see their identity as better fitting for themselves while appreciating human life. The choice of identifying with a creature not physically proven to exist is a matter of faith, akin to religious or philosophical beliefs. The prevalence of dragons in various mythologies supports their symbolic significance. The importance of draconity to those who embrace it is profound and personal. -->
+Dragons do not think they are superior to humans, nor do they think they are not a human physically. Instead, they have adopted this identity because it feels the most fitting, while continuing to appreciate human life. It does not matter that dragons, in physical form, have never been proven to exist. Draconity is, to those who embrace it, profoundly personal. It can be seen as a matter of faith, akin to philosophical or religious beliefs, where solace can be found in the various mythologies, legends, cultures and stories in which they very much do exist.
 
 A pivotal moment or series of experiences where an individual begins to recognize and embrace their identity as a dragon or their connection to dragons on a deeper level, is called an awakening. This process is highly personal and can vary widely in its nature and intensity from person to person. An awakening can happen at any stage in life, multiple times or not at all. In case it happens multiple times, someone might have lost the connection with their dragon side only to find it again at a later point in life. Meanwhile, someone who identifies as a dragon but has never had an awakening might have always considered themselves a dragon for as long as they can remember.
 
