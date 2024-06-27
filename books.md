@@ -2,7 +2,7 @@
 title: Books
 description: 
 published: true
-date: 2024-06-27T11:39:46.789Z
+date: 2024-06-27T11:43:40.570Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T11:39:46.789Z
@@ -28,7 +28,7 @@ Crossing a line is difficult, so we are considering adopting a different system,
 ## Themed around dragons
 | Author | Title | ISBN | Description |
 | --- | --- | --- | --- |
-| Coming soon! |
+| Coming soon! \| \| \| |
 
 ## Featuring dragons
 | Author | Title | ISBN | Description |
