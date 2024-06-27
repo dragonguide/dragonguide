@@ -2,7 +2,7 @@
 title: Resiliency
 description: 
 published: true
-date: 2024-06-20T09:56:39.965Z
+date: 2024-06-27T11:20:44.358Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
@@ -31,7 +31,7 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 - GitLab
 	Includes textual content, files and media. It is [publically accessible](https://gitlab.com/dragonguide/dragonguide).
 - Wayback Machine
-	Periodically takes snapshots of the website. Anyone can request a new snapshot by using the [Save Page Now service](https://web.archive.org/save). Make sure to enter `dragon.guide` as the URL and select "Save outlinks" for a complete snapshot. In the future, we aim to automate this process. It is [publically accessible](https://web.archive.org/dragon.guide).
+	We make a request to create a capture of the site daily. Site captures are currently limited to the homepage, and any outgoing links on the homepage. Anyone could also manually request a new snapshot by using the [Save Page Now service](https://web.archive.org/save). It is [publically accessible](https://web.archive.org/dragon.guide).
 - On-site Back-up
 	A back-up of the site on the website host, on a different hard drive. Currently being looked into. It will not be publically accessible.
 - Jottacloud
