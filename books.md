@@ -2,7 +2,7 @@
 title: Books
 description: 
 published: true
-date: 2024-06-27T11:44:01.615Z
+date: 2024-06-27T12:29:52.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-27T11:39:46.789Z
@@ -23,7 +23,9 @@ Crossing a line is difficult, so we are considering adopting a different system,
 ## Written by dragonkin
 | Author | Title | ISBN | Description |
 | --- | --- | --- | --- |
-| Rakeela Windrider | The Tachanigh-Kelkaith | | Denziu, a fledgling trader from Denxalue, dreams of selling local artisans' grain vessels as fine art. To achieve this, zie embarks on the challenging Tachanigh-Kelkaith trade route to a northern marketplace. Along the journey, Denziu faces harsh conditions and doubts about a luck charm that may be sabotaging the trip. Despite setbacks, Denziu's determination to change the perception of Denxalue keeps the dream alive. The story follows Denziu's struggle to succeed against the odds.
+| Rakeela Windrider | The Tachanigh-Kelkaith (Theoma 1) | To be added. | Denziu, a fledgling trader from Denxalue, dreams of selling local artisans' grain vessels as fine art. To achieve this, zie embarks on the challenging Tachanigh-Kelkaith trade route to a northern marketplace. Along the journey, Denziu faces harsh conditions and doubts about a luck charm that may be sabotaging the trip. Despite setbacks, Denziu's determination to change the perception of Denxalue keeps the dream alive. The story follows Denziu's struggle to succeed against the odds.
+| Rakeela Windrider | The Turning Wind (Theoma 2) | To be added. | To be added. |
+| Rakeela Windrider | Stone and Paintings (Theoma 3) | To be added. | To be added. |
 
 ## Themed around dragons
 | Author | Title | ISBN | Description |
