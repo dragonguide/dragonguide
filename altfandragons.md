@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-07-04T11:30:48.311Z
+date: 2024-07-04T11:31:15.337Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -92,7 +92,7 @@ this group will be successful.
 
 The news group received a few posts a week for the first several months of its existance. These indeed tended to moee technical discussions, as was originally intended. However, nearing the end of 1994, posts from users claiming to be dragons started appearing. Discussions also became less technical, much to the dismay of ExistingPhantom. Fearing that this would cause the group to dry up and die off, the creator tempted to steer topics into a more technical direction, until noticing that the amount of posts per week jumped from only a few to dozens. From this point, alt.fan.dragons blossomed into a community of its own, well beyond a technical discussion group.
 
-> [https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html](https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html)
+> [Dragonfire.org](https://web.archive.org/web/20061130220811/http://www.dragonfire.org/AfdEarlyHistory.html)
  
 ## Accessing the news group
 Due to the advancement of technology, it has become increasingly more difficult to make use of Usenet, as it is nowadays considered an obsolete. Nevertheless, with technical know-how, it can still be accessed.
