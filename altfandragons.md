@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-07-04T11:32:57.357Z
+date: 2024-07-04T11:39:22.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -136,8 +136,6 @@ Depending on the client of choice, configuring Usenet is going to work different
 6. You will be presented with a summary screen. Verify that all the information you entered is correct and click Finish/Done, or click Back to edit the incorrect information. 
 
 Once you have configured a newsgroup server, right-click the account name in the folder pane and select Subscribe to specify the groups that you want to join. To modify other account settings, right-click the account name in the folder pane and select Settings. You can customize various settings, such as the frequency and amount of downloaded messages, composition options, etc.
-
-> [Mozilla Support](https://support.mozilla.org/en-US/kb/creating-newsgroup-account)
 
 ## Dragonfire.org
 Dragonfire.org was generally considered to be the official site of alt.fan.dragons. It boasted general info about the Usenet forum, as well as provide additonal content like games, literature, entertainment, art and photos. It encouraged new users to join the community by providing an FAQ (a list of frequently asked questions).
