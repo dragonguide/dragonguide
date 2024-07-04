@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-07-04T11:39:22.250Z
+date: 2024-07-04T11:42:01.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -131,11 +131,11 @@ Depending on the client of choice, configuring Usenet is going to work different
 1. If not already shown, press <kbd>Alt</kbd> to display the menu bar. Then, select File → New → Other Accounts.
 2. Select Newsgroup Account and click Next/Continue.
 3. Enter your name and email account. When you send a message to a newsgroup, these values will be used to identify the source of the message. Click Next/Continue.
-4. Enter the address of the newsgroup server that you are subscribing to. In this case, alt.fan.dragons. Then, click Next/Continue.
+4. Enter the address of the newsgroup server that you have signed up with. Then, click Next/Continue.
 5. Enter a name for the account and click Next/Continue.
 6. You will be presented with a summary screen. Verify that all the information you entered is correct and click Finish/Done, or click Back to edit the incorrect information. 
 
-Once you have configured a newsgroup server, right-click the account name in the folder pane and select Subscribe to specify the groups that you want to join. To modify other account settings, right-click the account name in the folder pane and select Settings. You can customize various settings, such as the frequency and amount of downloaded messages, composition options, etc.
+Once you have configured a newsgroup server, right-click the account name in the folder pane and select Subscribe to specify the groups that you want to join (in this case, alt.fan.dragons). To modify other account settings, right-click the account name in the folder pane and select Settings. You can customize various settings, such as the frequency and amount of downloaded messages, composition options, etc.
 
 ## Dragonfire.org
 Dragonfire.org was generally considered to be the official site of alt.fan.dragons. It boasted general info about the Usenet forum, as well as provide additonal content like games, literature, entertainment, art and photos. It encouraged new users to join the community by providing an FAQ (a list of frequently asked questions).
