@@ -2,7 +2,7 @@
 title: Resiliency
 description: 
 published: true
-date: 2024-06-27T11:20:44.358Z
+date: 2024-07-04T10:06:08.868Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-19T20:17:50.647Z
@@ -41,6 +41,12 @@ Official archives are back-ups that are maintained by the Dragon Guide team.
 
 ### Community Archives
 Community archives are back-ups that are maintained by third-parties. If you would like to start maintaining one yourself, please let us know so we can list it here. There are currently no community archives.
+
+## Redundant servers and domains
+In the future, we aim to host the website on multiple servers. This allows us to keep the site up, even if one server were to go temporarily offline (e.g. due to a power outage). Similarly, we have a back-up domain name in case the main one fails for whatever reason (e.g. incorrect configuration or lost ownership).
+
+* Main domain: [https://dragon.guide](https://dragon.guide)
+* Back-up domain: [https://dragongui.de](https://dragongui.de)
 
 ## Future-proof storage format
 All content on the website is saved in a standard format. Technology advances at a rapid pace, so to make sure our content will be easy to access in the future, we need to decouple our content from any underlying software as much as possible. There are many different kinds of software out there that a web administrator could use to set up a wiki, but in our case we had to pick one with resiliancy as a top priority.
