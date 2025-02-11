@@ -2,7 +2,7 @@
 title: Contributing
 description: 
 published: true
-date: 2024-06-19T13:29:25.580Z
+date: 2025-02-11T14:53:08.310Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T14:43:19.369Z
@@ -88,9 +88,4 @@ If you do not have an account, but still want to contribute, you can simply cont
 We sync the contents of the site to our [public GitHub repository](https://github.com/dragonguide/dragonguide) as a back-up strategy. However, this syncing is actually bi-directional. As such, you can choose to commit your content to the repository on GitHub. Once you open up a pull request, and it gets approved, it will show up on the site. Please note that some technical knowledge about Git is required to use GitHub and contribute content this way.
 
 ## Financial support
-At Dragon Guide, we value contributions in the form of history, insights, experiences and other forms of wisdom the most. An alternative way to contribute, however, would be through a donation. Any money we receive will be invested into the website. Examples would be server hosting, file storage and back-up strategies. In the future, we will publish any donations and expenses for transparancy.
-
-- IBAN (€): `NL49 BUNQ 2120 2003 51`
-- [Credit / Debit Card, iDEAL, Sofort and Bancontact](https://bunq.me/dragonguide)
-
-Donations are not intended for or directed towards commercial advantage or monetary compensation (non-commercial).
+At Dragon Guide, we value contributions in the form of history, insights, experiences and other forms of wisdom the most. An alternative way to contribute, however, would be through a donation. Any money we receive will be invested into the website. Examples would be server hosting, file storage and back-up strategies. More more information on how to donate, please contact us. Donations are not intended for or directed towards commercial advantage or monetary compensation (non-commercial).
