@@ -2,7 +2,7 @@
 title: alt.fan.dragons
 description: 
 published: true
-date: 2024-07-04T11:57:40.210Z
+date: 2025-05-05T21:59:05.405Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-18T10:18:47.325Z
@@ -121,7 +121,7 @@ Below, we provide you with a list of Usenet servers to choose from. If you decid
 * [Eternal-September](https://www.eternal-september.org)
 Named after the [Usenet slang](https://en.wikipedia.org/wiki/Eternal_September), Eternal-September is a private project providing free news group access to anyone who creates an account.
 * [Individual.NET](https://individual.net)
-A Usenet server offered by the Freie Universität Berlin, which can be used for a low yearly fee.
+A Usenet server offered by the Freie Universität Berlin, which can be used for a low yearly fee. Only available to users which have their tax domicile in Germany.
 
 As an alternative, you may also contact your ISP, as many of them may provide a Usenet server of their own.
 
